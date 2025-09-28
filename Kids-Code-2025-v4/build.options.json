@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Users\\TJ\\AppData\\Local\\Arduino15\\libraries",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "attiny:avr:ATtinyX5:cpu=attiny85,clock=internal8",
+  "hardwareFolders": "c:\\Users\\TJ\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "c:\\Users\\TJ\\Documents\\Arduino\\libraries",
+  "sketchLocation": "C:\\Users\\TJ\\Documents\\Repos\\KidsBadge-2025\\2025-Code-KidsBadge"
+}

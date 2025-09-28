@@ -1,0 +1,47 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\TJ\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\TJ\\AppData\\Local\\Arduino15\\packages\\attiny\\hardware\\avr\\1.0.2\\variants\\tiny8"
+  },
+  {
+    "Sourcefile": "C:\\Users\\TJ\\AppData\\Local\\arduino\\sketches\\FE76AD7226A714ED15F2A144FC38B633\\sketch\\2025-Code-KidsBadge.ino.cpp",
+    "Include": "Adafruit_NeoPixel.h",
+    "Includepath": "c:\\Users\\TJ\\Documents\\Arduino\\libraries\\Adafruit_NeoPixel"
+  },
+  {
+    "Sourcefile": "C:\\Users\\TJ\\AppData\\Local\\arduino\\sketches\\FE76AD7226A714ED15F2A144FC38B633\\sketch\\2025-Code-KidsBadge.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\TJ\\Documents\\Arduino\\libraries\\Adafruit_NeoPixel\\Adafruit_NeoPixel.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\TJ\\Documents\\Arduino\\libraries\\Adafruit_NeoPixel\\Adafruit_Neopixel_RP2.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\TJ\\Documents\\Arduino\\libraries\\Adafruit_NeoPixel\\esp.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\TJ\\Documents\\Arduino\\libraries\\Adafruit_NeoPixel\\esp8266.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\TJ\\Documents\\Arduino\\libraries\\Adafruit_NeoPixel\\kendyte_k210.c",
+    "Include": "",
+    "Includepath": null
+  }
+]

@@ -1,0 +1,2 @@
+C:\Users\TJ\AppData\Local\arduino\sketches\FE76AD7226A714ED15F2A144FC38B633\libraries\Adafruit_NeoPixel\Adafruit_Neopixel_RP2.cpp.o: \
+ c:\Users\TJ\Documents\Arduino\libraries\Adafruit_NeoPixel\Adafruit_Neopixel_RP2.cpp
